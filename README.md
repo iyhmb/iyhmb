@@ -2,9 +2,6 @@
 #### Im yhmb 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+homepage)](https://git.io/typing-svg)
 
-<p>Homepage：<a href="https://www.likaijian.com">https://www.likaijian.com</a></p>
-<p>Blog：<a href="https://likaijian.com">https://likaijian.com</a>
-<p>Twitter：<a href="https://twitter.com/iyhmb">https://twitter.com/iyhmb</a></p>
 <blockquote>
   Currently a student and studying!
   <br>
